@@ -1,0 +1,92 @@
+.red-color{
+    color: red !important;
+}
+.show{
+    display: block !important;
+}
+.hide{
+    display: none !important;
+}
+.symbol{
+    background: #1BC5BD;
+}
+.places-user-icon-ride{
+    color: #1BC5BD;
+    margin-left: 5px;
+}
+.route-process{
+    text-align: center;
+    margin-top: -15px;
+    margin-bottom: -5px;
+}
+.right-arrow{
+    color: #3445E5;
+    margin: 10px;
+    position: relative;
+    bottom: -4px;
+}
+.margin-topped{
+    margin-top: -10px !important;
+}
+.places-user-icon-group{
+    margin-top: -8px;
+    margin-bottom: 22px;
+}
+.get-ride-button{
+    position: absolute;
+    right: 8px;
+    bottom: 8px;
+}
+.yellowed{
+    color: orange;
+}
+.blued{
+    color: blue;
+}
+.image-fit{
+    object-fit: cover;
+}
+    .places-user-icon-ride{
+        color: #1BC5BD;
+        margin-left: 5px;
+    }
+    .route-process{
+        text-align: center;
+        margin-top: -15px;
+        margin-bottom: -5px;
+    }
+    .right-arrow{
+        color: #3445E5;
+        margin: 10px;
+        position: relative;
+        bottom: -4px;
+    }
+    .margin-topped{
+        margin-top: -10px !important;
+    }
+    .places-user-icon-group{
+        margin-top: -8px;
+        margin-bottom: 22px;
+    }
+    .get-ride-button{
+        position: absolute;
+        right: 8px;
+        bottom: 8px;
+    }
+    .little-margin-left{
+        margin-left: 10px;
+    }
+    .btn.btn-outline.red {
+    border-color: #e7505a;
+    color: #e7505a;
+    background: 0 0;
+    }
+
+    .h1 {
+    left: 0;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+}

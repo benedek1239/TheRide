@@ -1,0 +1,215 @@
+
+.blocked{
+    display: block !important;
+    margin-top: 19px;
+}
+.show{
+    display: block !important;
+}
+.show-icon{
+    display: inline !important;
+}
+.hide{
+    display: none !important;
+}
+.fixed-width{
+    width: 205px !important;
+}
+#form-2{
+    display: none;
+}
+#form-3{
+    display: none;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+#map {
+    position: relative;
+    overflow: hidden;
+    height: 400px;
+    width: 100%;
+}
+.form-1{
+    margin-bottom: 100px;
+    width: 220px;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.search-city-input{
+    width: 200px !important;
+}
+.search-date-input{
+    display: inline;
+    width: 200px !important;
+}
+#search-button{
+    width: 100% !important;
+    margin-top: 40px;
+}
+#middle-button{
+    display: block;
+    margin-top: 25px;
+}
+.card-subtitle{
+    font-size: 1rem;
+    margin-bottom: 22px;
+}
+#form-2-button{
+    float: right;
+    margin-top: 10px;
+}
+.red-color{
+    color: red !important;
+}
+.info-card{
+    display: inline !important;
+    margin-left: 15px;
+}
+.map-route-infos{
+    display: inline;
+}
+.date-value-input{
+    width: 99px !important;
+}
+.form-3-label{
+    margin-top: 25px;
+}
+#ride_comment{
+    height: 160px;
+    width: 205px;
+    resize: none;
+}
+.margined-top{
+    margin-top: 15px;
+}
+.delete-icon{
+    display: none;
+    margin-left: 8px;
+    color: #F64E60 !important;
+    position: relative;
+    top: -31px;
+    right: -212px;
+    cursor: pointer;
+}
+
+#create-ride-button{
+    width: 100%;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+.places-user-icon{
+    color: #D1D3E0 !important;
+    margin-right: 14px;
+    cursor: pointer;
+}
+.mained{
+    color: #86e8e3 !important;
+}
+.mained-clicked{
+    color: #1BC5BD !important;
+}
+.date-value-input{
+    display: inline;
+}
+.select-time-div{
+    display: block;
+}
+.validation-icon{
+    margin-left: 8px;
+    color: #F64E60 !important;
+    position: relative;
+    top: 5px;
+}
+.accepted{
+    color: #1BC5BD !important;
+}
+
+.plus-input{
+    position: relative;
+    left: 233px;
+    top: -32px;
+    color: #1BC5BD;
+    cursor: pointer;
+}
+
+.middle-delete-input-icon{
+    color: #F64E60 !important;
+    position: relative;
+    top: -32px;
+    right: -227px;
+    cursor: pointer;
+}
+
+.city-shower{
+    margin-top: 0;
+    border-top: none !important;
+    border: 1px solid #E4E6EF;
+    box-shadow: 0px 0px 50px 0px rgba(82, 63, 105, 0.15);
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 98;
+    display: none;
+    float: left;
+    min-width: 10rem;
+    padding: 0.5rem 0;
+    margin: 0.125rem 0 0;
+    font-size: 1rem;
+    color: #3F4254;
+    text-align: left;
+    list-style: none;
+    background-color: #ffffff;
+    background-clip: padding-box;
+    height: auto;
+    max-height: 300px;
+    overflow: auto;
+}
+
+.city-span{
+    display: block;
+    cursor: pointer;
+    display: block;
+    position: relative;
+    outline: none !important;
+    padding: 10px 15px;
+}
+
+.city-span:hover{
+    background: #F3F6F9;
+}
+
+@media screen and (max-width: 500px) {
+    .map-route-infos{
+        display: block;
+        margin-top: 14px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .info-card {
+        display: block !important;
+    }
+    .search-date-input{
+        display: block !important;
+    }
+    #validation-icon-1{
+        margin-left: 88px;
+    }
+}
+
+
+@media screen and (max-width: 400px) {
+    .fixed-width {
+        width: 137px !important;
+    }
+    .plus-input{
+        left: 168px;
+    }
+    .middle-delete-input-icon{
+        right: -162px;
+    }
+}

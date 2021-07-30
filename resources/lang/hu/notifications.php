@@ -1,0 +1,33 @@
+<?php
+
+return [
+
+    'notifications' => 'Értesítések',
+    'join-ride' => 'Csatlakozás a fuvarodhoz!',
+    'accept' => 'Elfogadás',
+    'decline' => 'Elutasítás',
+    'sure-to-accept' => 'Biztosan elfogadja?',
+    'sure-to-delete' => 'Biztosan törli?',
+    'your-request' => 'Az utazási kérelmedet',
+    'accepted' => 'Elfogadták',
+    'declined' => 'Elutasították',
+    'delete' => 'Törlés',
+    'sure-to-decline' => 'Biztosan elutasítja?',
+    'decline-text' => 'elutasította az utazási kérelmedet ezen a fuvaron:',
+    'accept-text' => 'beleeggyezett, hogy útitársak legyetek ezen a fuvaron:',
+    'made-ride' => 'létrehozott egy új fuvart, ami úgy gondoljuk érdekelhet Téged!',
+    'got-a-ride-for-you' => 'Találtunk neked egy fuvart!',
+    'view' => 'Megtekinténs',
+    'at' => 'Létrehozva: ',
+    'reservation-cancelled' => 'Foglalás visszamondva!',
+    'user-cancelled-reservation' => 'Visszamondta a foglalását a következő útvonalon: ',
+    'ride-deleted' => 'Fuvar törölve!',
+    'deleted-a-ride' => 'Törölt egy fuvart, amiben foglalásod volt.',
+    'in-the' => 'Az',
+    'see-your-rides' => 'menüben láthatod a jelenlegi fuvarjaidat.',
+    'got-rating' => 'Kaptál egy értékelést!',
+    'sended-a-rating' => 'ertékelést adott le rólad, amit megtekinthetsz az ',
+    'ratings' => 'Értékelések',
+    'on-menu' => 'menüben.',
+    'can-give-rating' => 'menüben te is értékelheted az utasokat és a sofőröket.',
+];

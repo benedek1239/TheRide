@@ -1,0 +1,51 @@
+.right-arrow{
+    color: #3445E5;
+    position: relative;
+    margin-bottom: -10px;
+    margin: 10px;
+}
+.card-title:hover{
+    filter: drop-shadow(2px 4px 6px black);
+}
+.h-90{
+    height: 90% !important;
+    object-fit: cover;
+}
+.before-star{
+    color: #FFE2E5;
+    cursor: pointer;
+}
+.current-star{
+    color: #e07681 !important;
+}
+.after-star{
+    color: red !important;
+}
+.your-profile-icon{
+    color: #1BC5BD;
+    font-size: 2.2rem;
+}
+.centered{
+    margin-left: auto;
+    margin-right: auto;
+}
+.ride-date{
+    display: flex;
+    -webkit-box-align: center;
+    font-weight: 400;
+    font-size: 1.2rem;
+    color: #181C32;
+    align-items: center;
+}
+.date-line-responsivity{
+    display: inline;
+}
+.blued{
+    color: blue;
+}
+.yellowed{
+    color: orange;
+}
+.barly-margined{
+    margin: 2px;
+}

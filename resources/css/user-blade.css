@@ -1,0 +1,25 @@
+.user-icon{
+    float: right;
+    margin: 0.8rem;
+    background-color: aliceblue !important;
+    background: white;
+}
+.dropdown-menu.dropdown-menu-lg {
+    top: 45px !important;
+}
+#user-dropdown{
+    width: 320px !important;
+}
+#desktop-user{
+    margin-left: auto !important;
+}
+.image-fit{
+    object-fit: cover;
+}
+.reded{
+    color: red !important;
+}
+.font-1-rem{
+    font-size: 1rem !important;
+    float: right;
+}

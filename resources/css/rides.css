@@ -1,0 +1,113 @@
+@charset "UTF-8";
+
+body{
+    overflow-x: hidden;
+}
+.card-sticky{
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+    margin-bottom: 15px;
+}
+.input-icon{
+    margin-left: 20px;
+}
+.auto-widthed{
+    width: auto !important;
+}
+.blacked{
+    color: black !important;
+    margin-left: 7px;
+    font-size: 16px;
+}
+.filter-item{
+    display: block;
+    padding: 8px;
+    color: black;
+    font-size: 14px;
+}
+.filter-item:hover{
+    background: #C9F7F5;
+}
+.icon-sized{
+    font-size: 30px;
+    cursor: pointer;
+}
+.icon-sized2{
+    font-size: 25px;
+    cursor: pointer;
+}
+
+
+@media (max-width: 460px) {
+    .icon-sized{
+        font-size: 25px !important;
+    }
+    .icon-sized2{
+        font-size: 20px !important;
+    }
+    #search-rides-input{
+        width: 125px !important;
+    }
+}
+
+.right-side{
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin: 0.5rem;
+    margin-left: 0;
+}
+.filter-dropdown-menu{
+    margin-top: 28px;
+    top: 54px !important;
+}
+
+.symbol{
+    background: #1BC5BD;
+}
+.places-user-icon-ride{
+    color: #1BC5BD;
+    margin-left: 5px;
+}
+.route-process{
+    text-align: center;
+    margin-top: -15px;
+    margin-bottom: -5px;
+}
+.right-arrow{
+    color: #3445E5;
+    margin: 10px;
+    position: relative;
+    bottom: -4px;
+}
+.date-line-responsivity{
+    display: inline !important;
+}
+.margin-topped{
+    margin-top: -10px !important;
+}
+.places-user-icon-group{
+    margin-top: -8px;
+    margin-bottom: 22px;
+}
+.get-ride-button{
+    position: absolute;
+    right: 8px;
+    bottom: 8px;
+}
+.yellowed{
+    color: orange;
+}
+.blued{
+    color: blue;
+}
+.image-fit{
+    object-fit: cover;
+}
+.created-date{
+    position: absolute;
+    bottom: 4px;
+    left: 5px;
+}

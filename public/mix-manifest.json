@@ -1,0 +1,12 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/ride-create.js": "/js/ride-create.js",
+    "/js/rides.js": "/js/rides.js",
+    "/js/ride-information.js": "/js/ride-information.js",
+    "/js/user-settings.js": "/js/user-settings.js",
+    "/js/user-blade.js": "/js/user-blade.js",
+    "/js/top-menu.js": "/js/top-menu.js",
+    "/js/passangerSugested.js": "/js/passangerSugested.js",
+    "/js/passanger.js": "/js/passanger.js"
+}

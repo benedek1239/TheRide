@@ -1,0 +1,33 @@
+<?php
+
+return [
+
+    'notifications' => 'Notifications',
+    'join-ride' => 'Join to your ride!',
+    'accept' => 'Accept',
+    'decline' => 'Decline',
+    'sure-to-accept' => 'Are you sure?',
+    'sure-to-delete' => 'Are you sure?',
+    'your-request' => 'Your ride request is',
+    'accepted' => 'Accepted',
+    'declined' => 'Declined',
+    'delete' => 'Delete',
+    'sure-to-decline' => 'Are you sure?',
+    'decline-text' => 'Declined your riding request on this route:',
+    'accept-text' => 'Accepted your riding request on this route:',
+    'made-ride' => 'Created a new ride, which we think interests you',
+    'got-a-ride-for-you' => 'We got a ride for you!',
+    'view' => 'View',
+    'at' => 'Created: ',
+    'reservation-cancelled' => 'Reservation cancelled!',
+    'user-cancelled-reservation' => 'Cancelled the reservation on this route: ',
+    'ride-deleted' => 'Ride deleted!',
+    'deleted-a-ride' => 'Deleted a ride, in which you had a reservation.',
+    'in-the' => 'Visit the',
+    'see-your-rides' => 'menu to see your current rides.',
+    'got-rating' => 'You got a rating!',
+    'sended-a-rating' => 'gave a rating of you, which you can see on the',
+    'ratings' => 'Ratings',
+    'on-menu' => 'menu.',
+    'can-give-rating' => ' menu, where you can give ratings for the drivers and the passangers.',
+];

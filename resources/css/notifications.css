@@ -1,0 +1,66 @@
+.margin-topped{
+    margin-top: 15px !important;
+}
+.right-arrow{
+    color: #3445E5;
+    margin: 10px;
+    position: relative;
+    bottom: -4px;
+}
+.route-process{
+    text-align: center;
+    margin-bottom: 8px;
+    margin-right: auto;
+}
+.route-process:hover{
+    filter: drop-shadow(2px 4px 6px black);
+}
+.yellowed{
+    color: orange;
+}
+.reded{
+    color: red;
+}
+.places-user-icon-ride{
+    color: #1BC5BD;
+    margin-right: 2px;
+    margin-top: 6px;
+}
+.font-size-bigger{
+    font-size: 1.6rem;
+}
+.card-custom{
+    margin-top: 15px;
+}
+.notification-time{
+    position: absolute;
+    right: 17px;
+    bottom: 5px;
+}
+.yellowed{
+    color: orange;
+}
+.blued{
+    color: blue;
+}
+.hidden{
+    display: none !important;
+}
+.greened-text{
+    color: #1BC5BD !important;
+}
+.reded-text{
+    color: red !important;
+}
+.success-bg{
+    background-color: #1BC5BD !important;
+}
+.error-bg{
+    background-color: #F64E60 !important;
+}
+.inlined{
+    display: inline !important;
+}
+.notification-text{
+    margin-bottom: 10px;
+}

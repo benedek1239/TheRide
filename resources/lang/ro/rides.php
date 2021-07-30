@@ -1,0 +1,33 @@
+<?php
+
+return [
+
+    'price' => 'Preț: ',
+    'free-places' => 'Locuri libere: ',
+    'open' => 'Deschide',
+    'details' => 'Detalii',
+    'start' => 'Pornire',
+    'comment' => 'Comentariu',
+    'route' => 'Traseu',
+    'color-coding' => 'Cod de culoare',
+    'village' => 'Sat',
+    'town' => 'Orășel',
+    'city' => 'Oraș',
+    'touched-locations' => 'Localitățile traseului ',
+    'locations-near-the-route' => 'localitați în aproprierea traseului',
+    'how-many-people' => 'Câte persoane?',
+    'reservation' => 'Rezervare',
+    'next' => 'Pasul următor',
+    'cancel' => 'Anulare',
+    'accept' => 'Acceptare',
+    'everything-is-alright' => 'Totul este în regulă!',
+    'send-reservation-to-the-driver' => 'Trimiteți o rezervare șoferului',
+    'own-route' => 'Acesta este transportul tău!',
+    'not-enough-places' => 'Nu este suficient spațiu liber în mașină!',
+    'ride-out' => 'Această rută nu mai este activă!',
+    'search' => 'Căutare...',
+    'created-time' => 'Creat',
+    'according-to-price' => 'După preț',
+    'start-time' => 'Timp de plecare',
+    'places-number' => 'Număr de locuri',
+];

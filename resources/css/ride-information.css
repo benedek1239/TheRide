@@ -1,0 +1,119 @@
+
+.hovered{
+    cursor: pointer;
+}
+.hovered:hover{
+    color: rgb(255, 218, 148);
+}
+.symbol{
+    background: #1BC5BD;
+}
+.mained{
+    color: #86e8e3 !important;
+}
+.mained-clicked{
+    color: #1BC5BD !important;
+}
+.places-user-icon-get-ride{
+    color: #D1D3E0;
+    margin-left: 5px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.map-route-infos{
+    display: inline;
+}
+.info-card{
+    display: inline !important;
+    margin-left: 15px;
+}
+@media screen and (max-width: 390px) {
+    .info-card {
+        display: block !important;
+    }
+}
+.right-arrow{
+    color: #3445E5;
+    margin: 10px;
+    position: relative;
+    bottom: -4px;
+}
+.route-process{
+    text-align: center;
+    margin-top: -15px;
+    margin-bottom: -5px;
+}
+.margin-left{
+    margin-left: 25px;
+}
+.card-color-infos{
+    margin-right: auto;
+    align-items: center;
+    display: flex;
+    font-weight: 500;
+    font-size: 14px;
+}
+.color-icon {
+    font-size: 2rem !important;
+    margin-left: 10px;
+}
+.hidden{
+    display: none !important;
+}
+#map{
+    height: 450px;
+}
+.greened{
+    color: green;
+}
+.yellowed{
+    color: orange;
+}
+.reded{
+    color: red;
+}
+.blued{
+    color: blue;
+}
+.places-user-icon-ride{
+    color: #1BC5BD;
+    margin-left: 5px;
+}
+.margined{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.image-fit{
+    object-fit: cover;
+}
+.date-line-responsivity{
+    display: inline;
+}
+@media screen and (max-width: 420px) {
+    .color-icon{
+        font-size: 1.3rem !important;
+    }
+    .card-color-infos{
+        font-size: 9px;
+    }
+}
+
+
+@media screen and (max-width: 992px) {
+    .container{
+        padding: 0 5px !important;
+    }
+    .card.card-custom > .card-body {
+        padding: 0 5px !important;
+    }
+    .card-header {
+        padding: 0 5px !important;
+    }
+    .card-toolbar {
+        margin-left: auto !important;
+    }
+    .margin-left{
+        margin-left: 10px !important;
+    }
+    
+}
